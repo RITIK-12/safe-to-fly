@@ -46,9 +46,9 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 * This also proves the usability and generality of the AutoML model used.
 
 <p align="center">
-  <img width="350" alt="Screenshot 2022-09-20 at 12 25 13 PM" src="https://user-images.githubusercontent.com/54806252/191188248-5d20b583-1629-4086-a39f-92adee50c645.png">
-  <img width="350" alt="Screenshot 2022-09-20 at 12 25 40 PM" src="https://user-images.githubusercontent.com/54806252/191188279-e6418233-6b43-4ee8-ae89-f5cb41387756.png">
-  <img width="350" alt="Screenshot 2022-09-20 at 12 25 52 PM" src="https://user-images.githubusercontent.com/54806252/191188364-08e0cf5a-277c-48d8-adea-fa359d168347.png">
+  <img width="300" alt="Screenshot 2022-09-20 at 12 25 13 PM" src="https://user-images.githubusercontent.com/54806252/191188248-5d20b583-1629-4086-a39f-92adee50c645.png">
+  <img width="300" alt="Screenshot 2022-09-20 at 12 25 40 PM" src="https://user-images.githubusercontent.com/54806252/191188279-e6418233-6b43-4ee8-ae89-f5cb41387756.png">
+  <img width="300" alt="Screenshot 2022-09-20 at 12 25 52 PM" src="https://user-images.githubusercontent.com/54806252/191188364-08e0cf5a-277c-48d8-adea-fa359d168347.png">
 </p>
 
 ### ✯ BibTeX
