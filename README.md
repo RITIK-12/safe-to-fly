@@ -12,7 +12,7 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 * The second dataset is created by combining flight data of 21st July and 23rd July and dividing the data in training and testing set of split size 80:20.
 
 
-img width="1314" alt="Screenshot 2022-09-20 at 12 02 05 PM" src="https://user-images.githubusercontent.com/54806252/191184038-e8e78977-8153-48b5-bfc2-b2ed775170fa.png">
+<img width="1314" alt="Screenshot 2022-09-20 at 12 02 05 PM" src="https://user-images.githubusercontent.com/54806252/191184038-e8e78977-8153-48b5-bfc2-b2ed775170fa.png">
 
 ### ✯ Fault Detection Method
 * Several state-of-the-art Machine Learning algorithms such as Decision Tree Classifier, KNN, and Random Forest Classifier were applied on the datasets for comparison of the results with the AutoML model.
