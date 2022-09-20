@@ -69,4 +69,4 @@ doi={10.1109/DELCON54057.2022.9752852}}
 
 ### ✯ References
 1. M. Bronz, E. Baskaya, D. Delahaye, and S. Puechmore, “Real-time fault detection on small fixed-wing uavs using machine learning,” in 2020 AIAA/IEEE 39th Digital Avionics Systems Conference (DASC). IEEE, 2020, pp. 1–10
-2. https://github.com/mrtbrnz/fault_detection
+2. Orignal Dataset : https://github.com/mrtbrnz/fault_detection
