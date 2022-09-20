@@ -58,8 +58,7 @@ If you find this code or paper useful, please use the following reference:
 @INPROCEEDINGS{9752852,  
 author={Bompilwar, Ritik and Rathor, Surya Pratap Singh and Sinha, Aparna and Das, Debanjan},  
 booktitle={2022 IEEE Delhi Section Conference (DELCON)},   
-title={Safe-to-fly : An On-board Intelligent Fault Diagnosis S<img width="639" alt="Screenshot 2022-09-20 at 12 25 52 PM" src="https://user-images.githubusercontent.com/54806252/191188314-cb1cd52f-d932-4426-bb8d-4b51cad6ae33.png">
-ystem With AutoML for Unmanned Aerial Vehicles},   
+title={Safe-to-fly : An On-board Intelligent Fault Diagnosis System With AutoML for Unmanned Aerial Vehicles},   
 year={2022},  
 volume={},  
 number={},  
