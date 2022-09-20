@@ -6,7 +6,7 @@
 Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging task. Data-driven intelligent diagnosis of faults ensures flight safety for UAVs. In this paper, realtime fault diagnosis on small scale fixed-wing UAVs has been shown by data of natural flight conditions with a wrapped wing structure that breaks the geometric symmetry. AutoML based approach was taken for multi-class fault classification. Two datasets were created from the combination of flight data of two days. The experimental results showed that the proposed Deep Learning AutoML model significantly improves performance over conventional Machine Learning methods such as the Decision Tree, KNN, and the Random Forest. The test accuracy of the proposed AutoML model was 74% and 100% on the first and second datasets, respectively. The AutoML model’s capability in classifying low fault severity and complex faults demonstrated the method’s usefulness and excellence.
 
 ### ✯ Datset Acquisition & Preparation
-* The dataset for the fault detection was acquired from M. Bronz et al. [6]. It contains multi-class fault data for two days(21st of July 2020 and 23rd of July 2020) of identical flights.
+* The dataset for the fault detection was acquired from M. Bronz et al. [1] It contains multi-class fault data for two days(21st of July 2020 and 23rd of July 2020) of identical flights.
 * It comprised of faults related to left control surface efficiency and right control surface efficiency with eight fault types and normal flight data.
 * Two datasets are created by the combination of flight data for two days. The first dataset consists of the flight data of 21st July, which has been divided into training and testing data with an 80:20 split.
 * The second dataset is created by combining flight data of 21st July and 23rd July and dividing the data in training and testing set of split size 80:20.
@@ -68,4 +68,5 @@ doi={10.1109/DELCON54057.2022.9752852}}
 ```
 
 ### ✯ References
-1. https://www.kaggle.com/datasets/sujaradha/thermal-images-diseased-healthy-leaves-paddy
+1. M. Bronz, E. Baskaya, D. Delahaye, and S. Puechmore, “Real-time fault detection on small fixed-wing uavs using machine learning,” in 2020 AIAA/IEEE 39th Digital Avionics Systems Conference (DASC). IEEE, 2020, pp. 1–10
+2. https://github.com/mrtbrnz/fault_detection
