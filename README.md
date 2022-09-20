@@ -27,7 +27,7 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 ### ✯ Model Evaluation on Dataset 1
 * Table III shows a comparison of training and test accuracy for different ML Algorithms employed. 
 * It is evident that the AutoML model has comparable results with respect to other ML Algorithms.
-* The Fig. 3 shows the comparison of different performance metrics, namely Precision, Recall and F-1 Score for the ML
+* The Fig. 3 shows the comparison of different performance metrics, namely Precision, Recall and F-1 Score for the ML models.
 * As the testing dataset was of an entirely different flight, the AutoML model performance demonstrates its usability in the real world.
 
 <p align="center">
@@ -36,6 +36,16 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 </p>
 
 ### ✯ Model Evaluation on Dataset 2
+* As the Dataset 2 was prepared by combining the flight data of 21st and 23rd July, which resulted in larger training data than the previous case. 
+* Hence an improvement in the performance of all the ML Algorithms can be seen.
+* The Table IV shows the comparison of different performance metrics values for the various Machine Learning algorithms with the proposed AutoML model. 
+* The Fig. 4 shows the Confusion Metrics obtained when the AutoML model was evaluated on the test dataset.
+* It is evident from the confusion matrix that AutoML nearly classified all the faults accurately.
+* The Fig. 5 shows the comparison of performance metrics for different types of faults, which was obtained with the help of the Confusion Matrix.
+* The high values of precision recall and F-1 score shows the efficiency of the AutoML model.
+* This also proves the usability and generality of the AutoML model used.
+
+
 
 ### ✯ BibTeX
 If you find this code or paper useful, please use the following reference:
