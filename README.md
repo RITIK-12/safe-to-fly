@@ -18,8 +18,8 @@ If you find this code or paper useful, please use the following reference:
 @INPROCEEDINGS{9752852,  
 author={Bompilwar, Ritik and Rathor, Surya Pratap Singh and Sinha, Aparna and Das, Debanjan},  
 booktitle={2022 IEEE Delhi Section Conference (DELCON)},   
-title={Safe-to-fly : An On-board Intelligent Fault Diagnosis System With AutoML for Unmanned Aerial Vehicles},   y
-ear={2022},  
+title={Safe-to-fly : An On-board Intelligent Fault Diagnosis System With AutoML for Unmanned Aerial Vehicles},   
+year={2022},  
 volume={},  
 number={},  
 pages={1-5},  
