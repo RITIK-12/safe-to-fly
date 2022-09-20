@@ -2,9 +2,7 @@
 
 <img width="1196" alt="Screenshot 2022-09-20 at 11 23 03 AM" src="https://user-images.githubusercontent.com/54806252/191177931-70de6492-6874-4bb0-aa5f-9d82081f55e8.png">
 
-### ★Introduction
-* Unmanned Aerial Vehicles (UAVs) finds it’s application in various fields such as forestry, aerial photography, agriculture, meteorological predictions, and nowadays even for express delivery.
-* Fixed-wing UAVs (FW-UAVs) are the most extensive UAV types and are employed for challenging tasks that require more speed and endurance. 
-* The UAV crash caused due to malfunctions will undoubtedly result in significant economic loss, have a negative impact on the military, and even cause political and social problems
-* Hence, the real-time diagnosis of these complex systems is a vital to ensure their operability in critical missions.
+### ★Abstract
+Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging task. Data-driven intelligent diagnosis of faults ensures flight safety for UAVs. In this paper, realtime fault diagnosis on small scale fixed-wing UAVs has been shown by data of natural flight conditions with a wrapped wing structure that breaks the geometric symmetry. AutoML based approach was taken for multi-class fault classification. Two datasets were created from the combination of flight data of two days. The experimental results showed that the proposed Deep Learning AutoML model significantly improves performance over conventional Machine Learning methods such as the Decision Tree, KNN, and the Random Forest. The test accuracy of the proposed AutoML model was 74% and 100% on the first and second datasets, respectively. The AutoML model’s capability in classifying low fault severity and complex faults demonstrated the method’s usefulness and excellence.
+
 
