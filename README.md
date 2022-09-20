@@ -45,7 +45,11 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 * The high values of precision recall and F-1 score shows the efficiency of the AutoML model.
 * This also proves the usability and generality of the AutoML model used.
 
-
+<p align="center">
+<img width="300" alt="Screenshot 2022-09-20 at 12 25 13 PM" src="https://user-images.githubusercontent.com/54806252/191188248-5d20b583-1629-4086-a39f-92adee50c645.png">
+<img width="300" alt="Screenshot 2022-09-20 at 12 25 40 PM" src="https://user-images.githubusercontent.com/54806252/191188279-e6418233-6b43-4ee8-ae89-f5cb41387756.png">
+<img width="300" alt="Screenshot 2022-09-20 at 12 25 52 PM" src="https://user-images.githubusercontent.com/54806252/191188364-08e0cf5a-277c-48d8-adea-fa359d168347.png">
+</p>
 
 ### ✯ BibTeX
 If you find this code or paper useful, please use the following reference:
@@ -54,7 +58,8 @@ If you find this code or paper useful, please use the following reference:
 @INPROCEEDINGS{9752852,  
 author={Bompilwar, Ritik and Rathor, Surya Pratap Singh and Sinha, Aparna and Das, Debanjan},  
 booktitle={2022 IEEE Delhi Section Conference (DELCON)},   
-title={Safe-to-fly : An On-board Intelligent Fault Diagnosis System With AutoML for Unmanned Aerial Vehicles},   
+title={Safe-to-fly : An On-board Intelligent Fault Diagnosis S<img width="639" alt="Screenshot 2022-09-20 at 12 25 52 PM" src="https://user-images.githubusercontent.com/54806252/191188314-cb1cd52f-d932-4426-bb8d-4b51cad6ae33.png">
+ystem With AutoML for Unmanned Aerial Vehicles},   
 year={2022},  
 volume={},  
 number={},  
