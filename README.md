@@ -11,6 +11,7 @@ Real-time fault diagnosis in Unmanned Aerial Vehicles (UAVs) is a challenging ta
 * Two datasets are created by the combination of flight data for two days. The first dataset consists of the flight data of 21st July, which has been divided into training and testing data with an 80:20 split.
 * The second dataset is created by combining flight data of 21st July and 23rd July and dividing the data in training and testing set of split size 80:20.
 
+
 img width="1314" alt="Screenshot 2022-09-20 at 12 02 05 PM" src="https://user-images.githubusercontent.com/54806252/191184038-e8e78977-8153-48b5-bfc2-b2ed775170fa.png">
 
 ### ✯ Fault Detection Method
@@ -18,8 +19,10 @@ img width="1314" alt="Screenshot 2022-09-20 at 12 02 05 PM" src="https://user-im
 * Auto-Keras leverages Neural Architecture Search, but with the addition of network morphism and Bayesian optimisation to direct the network morphism for a more effective neural network search. 
 * The Safe-to-fly AutoML Model I was trained on flight data of 21st July and tested on 23rd July data. 
 * The Safe-to-fly AutoML Model II was trained on 80% of combined data of 21st July and 23rd July and evaluated on the rest 20% data.
-<img width="600" alt="Screenshot 2022-09-20 at 12 05 02 PM" src="https://user-images.githubusercontent.com/54806252/191184648-913d910a-1ef5-4198-819f-90a8f3c4dc26.png"> <img width="600" alt="Screenshot 2022-09-20 at 12 05 26 PM" src="https://user-images.githubusercontent.com/54806252/191184670-ee35a2de-3a66-4e1d-8c6a-6a058db63497.png">
-
+<p align="center">
+  <img width="600" alt="Screenshot 2022-09-20 at 12 05 02 PM" src="https://user-images.githubusercontent.com/54806252/191184648-913d910a-1ef5-4198-819f-90a8f3c4dc26.png"> 
+  <img width="600" alt="Screenshot 2022-09-20 at 12 05 26 PM" src="https://user-images.githubusercontent.com/54806252/191184670-ee35a2de-3a66-4e1d-8c6a-6a058db63497.png">
+</p>
 
 ### ✯ Model Testing
 
